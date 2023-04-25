@@ -1,2 +1,10 @@
-# Module-14
-Model-View-Controller (MVC) Challenge: Tech Blog
+# Carlos's Tech Blog Website
+
+## Description
+This website allows users or anyone to post about tech, and what they know or learned about tech 
+that the can share with others around the world.
+
+## Acceptance criteria
+
+
+
